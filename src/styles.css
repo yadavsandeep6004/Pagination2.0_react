@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.page {
+  margin: 0.5rem;
+  border: 1px solid black;
+  padding: 0.4rem 0.6rem;
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+}
+
+.active {
+  background-color: blue;
+}
